@@ -1,3 +1,14 @@
+- title: "Point-gap Weyl semimetal dynamical current and boundary-skin modes"
+  image: WP.JPG
+  description: Weyl semimetal is an archetypical gapless topological phase of matter. Here, we extend WSM to non-Hermitian regime and introduce the so-called point-gap WSM, where a pair of Weyl points are located on the imaginary axis of the complex energy plane (possessing different lifetimes). The generalization triggers a few fundamental changes to the topological characterization and dynamical responseeyl semimetals. We predict a new effect, time-dependent current induced solely by magnetic field, that saturates at long time.
+  authors: Haiping Hu, Erhai Zhao, & W. Vincent Liu
+  link:
+    url: https://arxiv.org/pdf/2107.02135.pdf
+    display:  ArXiv: 2107.02135 (2021)
+  highlight: 1
+  news2:
+  
+  
 - title: "Knots and Non-Hermitian Bloch Bands"
   image: knot.JPG
   description: Knots have a twisted history in quantum physics. We demonstrate that knots tied by the eigenenergy strings provide a complete topological classification of one-dimensional non-Hermitian Hamiltonians with separable bands. We show the transition between two phases characterized by distinct knots occur through exceptional points and come in two types. We develop an algorithm to construct the corresponding tight-binding non-Hermitian Hamiltonian for any desired knot, and propose a scheme to probe the knot structure via quantum quench.
@@ -15,17 +26,17 @@
   authors: Haiping Hu & Erhai Zhao
   link:
     url: https://doi.org/10.1103/PhysRevLett.124.160402
-    display:  Phys. Rev. Lett. 124, 160402 – Published 21 April 2020
+    display:  Phys. Rev. Lett. 124, 160402 (2020)
   highlight: 1
   news2:
 
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
+- title: "Dynamical Singularities of Floquet Higher-Order Topological Insulators"
   image: TiNHigh.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+  description: We propose a versatile framework to dynamically generate Floquet higher-order topological insulators by multistep driving of topologically trivial Hamiltonians. Furthermore, we introduce dynamical topological invariants from the full unitary return map and show its phase bands contain Weyl singularities whose topological charges form dynamical multipole moments in the Brillouin zone. 
+  authors: Haiping Hu, Biao Huang, Erhai Zhao, & W. Vincent Liu
   link:
-    url: https://arxiv.org/abs/2101.08535
-    display: arXiv:2101.08535 (2021)
+    url: https://doi.org/10.1103/PhysRevLett.124.057001
+    display: Phys. Rev. Lett. 124, 057001 (2020)
   highlight: 1
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
