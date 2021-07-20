@@ -6,7 +6,12 @@ sitemap: false
 permalink: /wunderkammer
 ---
 
-# Open positions
+# Recorded lectures and talks
+
+1. [Programs](https://www.kitp.ucsb.edu/activities) at the Kavli Institute for Theoretical Physics, University of California, Santa Barbara.
+
+2. [Workshops](https://www.pks.mpg.de/events/workshops-seminars/) at the Max Planck Institute for the Physics of Complex Systems.
+
 
 **Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
 
