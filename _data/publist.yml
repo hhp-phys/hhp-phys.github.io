@@ -81,6 +81,27 @@
   highlight: 0
   news2:  
   
+- title: Topological Mott insulator with bosonic edge modes in one-dimensional fermionic superlattices
+  image: ""
+  description: ""
+  authors: Haiping Hu, Shu Chen, Tian-Sheng Zeng, & Chuanwei Zhang
+  link:
+    url: https://doi.org/10.1103/PhysRevA.100.023616
+    display: Phys. Rev. A 100, 023616 (2019)
+  highlight: 0
+  news2:  
+  
+- title: Effect of incommensurate potential on nodal-link semimetals
+  image: ""
+  description: ""
+  authors: Yucheng Wang, Haiping Hu, & Shu Chen
+  link:
+    url: https://doi.org/10.1103/PhysRevB.98.205410
+    display: Phys. Rev. B 98, 205410 (2018)
+  highlight: 0
+  news2: 
+  
+  
 - title: "Majorana Doublets, Flat Bands, and Dirac Nodes in s-Wave Superfluids"
   image: HG.JPG
   description: We propose to realize a time-reversal invariant topological superfluid by utilizing s-wave pairing and emergent mirror and time-reversal symmetries in two coupled 1D ultracold atomic Fermi gases with spin-orbit coupling. By stacking such systems into 2D, we discover topological and Dirac-nodal superfluids hosting distinct MKP flat bands, which are stable against pairing fluctuations that otherwise annihilate Majorana pairs.
@@ -90,6 +111,17 @@
     display:  Phys. Rev. Lett. 121, 185302 (2018)
   highlight: 1
   news2:
+
+- title: Spin-1 topological monopoles in parameter space of ultracold atoms
+  image: ""
+  description: ""
+  authors: Haiping Hu & Chuanwei Zhang
+  link:
+    url: https://doi.org/10.1103/PhysRevA.98.013627
+    display: Phys. Rev. A 98, 013627 (2018)
+  highlight: 0
+  news2: 
+
 
 - title: "Topological Triply Degenerate Points Induced by Spin-Tensor-Momentum Couplings"
   image: TDP.JPG
@@ -112,7 +144,37 @@
   news2: See also <a href="https://www.newsweek.com/superfluid-quasicrystal-physicists-propose-entirely-new-form-matter-and-how-878601"> Newsweek </a>, <a href="https://www.sciencedaily.com/releases/2018/04/180409112540."> ScienceDaily </a>, <a href="https://phys.org/news/2018-04-solid-physicists-state.html"> Phys.org </a>.
 
 
- 
+- title: Exact ordering of energy levels for one-dimensional interacting Fermi gases with SU(N) symmetry
+  image: ""
+  description: ""
+  authors: Lei Pan, Yanxia Liu, Haiping Hu, Yunbo Zhang, & Shu Chen
+  link:
+    url: https://doi.org/10.1103/PhysRevB.96.075149
+    display: Phys. Rev. B 96, 075149 (2017)
+  highlight: 0
+  news2: 
+
+- title: Strongly interacting one-dimensional quantum gas mixtures with weak p-wave interactions
+  image: ""
+  description: ""
+  authors: Haiping Hu, Lei Pan, & Shu Chen
+  link:
+    url: https://doi.org/10.1103/PhysRevA.93.033636
+    display: Phys. Rev. A 93, 033636 (2016)
+  highlight: 0
+  news2: 
+
+- title: Fractional topological states in quantum spin chains with periodical modulation
+  image: ""
+  description: ""
+  authors: Haiping Hu, Huaiming Guo, & Shu Chen
+  link:
+    url: https://doi.org/10.1103/PhysRevB.93.155133
+    display: Phys. Rev. B 93, 155133 (2016)
+  highlight: 0
+  news2: 
+
+
 
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
   image: dummy.png
