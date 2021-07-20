@@ -22,11 +22,11 @@
 
 - title: "Topological Invariants for Quantum Quench Dynamics from Unitary Evolution"
   image: DT.JPG
-  description: Quench dynamics, time evolution after a sudden change in the Hamiltonian, studied under a new framework yields a collection of topological structures. Here we introduce the concept of loop unitary constructed from the unitary time-evolution operator and show its homotopy invariant fully characterizes the dynamical topology.
+  description: Quench dynamics, time evolution after a sudden change in the Hamiltonian, studied under a new framework yields a collection of topological structures. Here we introduce the key concept of loop unitary constructed from the unitary time-evolution operator and show its homotopy invariant fully characterizes the dynamical topology. This opens up a systematic route to classify and characterize quantum quench dynamics.
   authors: Haiping Hu & Erhai Zhao
   link:
     url: https://doi.org/10.1103/PhysRevLett.124.160402
-    display:  Phys. Rev. Lett. 124, 160402 (2020)
+    display:  Phys. Rev. Lett. 124, 160402 (2020), Editors' Suggestions
   highlight: 1
   news2:
 
