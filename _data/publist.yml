@@ -1,7 +1,7 @@
 - title: "Knots and Non-Hermitian Bloch Bands"
   image: knot.JPG
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: Haiping Hu and Erhai Zhao
+  description: Knots have a twisted history in quantum physics. We demonstrate that knots tied by the eigenenergy strings provide a complete topological classification of one-dimensional non-Hermitian Hamiltonians with separable bands.
+  authors: Haiping Hu & Erhai Zhao
   link:
     url: https://doi.org/10.1103/PhysRevLett.126.010401
     display:  Phys. Rev. Lett. 126, 010401 (2021)
