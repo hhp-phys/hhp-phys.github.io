@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Haiping Hu's Lab - Wunderkammer"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Wunderkammer"
 sitemap: false
-permalink: /vacancies
+permalink: /wunderkammer
 ---
 
 # Open positions
