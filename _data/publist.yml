@@ -173,48 +173,85 @@
     display: Phys. Rev. B 93, 155133 (2016)
   highlight: 0
   news2: 
-
-
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
+  
+- title: Strongly interacting Bose-Fermi mixtures in one dimension
+  image: ""
   description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  authors: Haiping Hu, Liming Guan, & Shu Chen
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: https://doi.org/10.1088/1367-2630/18/2/025009
+    display: New J. Phys. 18, 025009 (2016)
   highlight: 0
-  news2:
+  news2: 
 
-
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    We determine the Fermi surface of Sr327.
-  authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
-  link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
-
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
-  image: Pub_hBN.png
-  description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
-  authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
-  link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
-  highlight: 1
-
-- title: Photoelectron Diffraction for a Look inside Nanostructures
-  image: dummy.png
+- title: Many-body ground state localization and coexistence of localized and extended states in an interacting quasiperiodic system
+  image: ""
   description: ""
-  authors:
-    J Osterwalder, A Tamai, W Auwärter; MP Allan, T Greber
+  authors: Yucheng Wang, Haiping Hu, & Shu Chen
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: https://doi.org/10.1140/epjb/e2016-60873-4
+    display: Eur. Phys. J. B 89, 77 (2016)
   highlight: 0
+  news2: 
+  
+- title: Spin-orbit coupled s-wave superconductor in one dimensional optical lattice
+  image: ""
+  description: ""
+  authors: Lijun Yang, Lijun Lang, Rong Lv, & Haiping Hu
+  link:
+    url: https://doi.org/10.1088/0253-6102/63/4/445
+    display: Commun. Theor. Phys. 63, 445(2015)
+  highlight: 0
+  news2: 
+
+- title: Topological incommensurate magnetization plateaus in quasi-periodic quantum spin chains
+  image: ""
+  description: ""
+  authors: Haiping Hu, Chen Cheng, Honggang Luo, & Shu Chen
+  link:
+    url: https://doi.org/10.1038/srep08433
+    display: Scientific Reports 5, 8433 (2015)
+  highlight: 0
+  news2:   
+  
+- title: Topological nature of magnetization plateaus in periodically modulated quantum spin chains
+  image: ""
+  description: ""
+  authors: Haiping Hu, Chen Cheng, Zhihao Xu, Honggang Luo, & Shu Chen
+  link:
+    url: https://doi.org/10.1103/PhysRevB.90.035150
+    display: Phys. Rev. B 90, 035150 (2014)
+  highlight: 0
+  news2:  
+  
+- title: Ferromagnetic to antiferromagnetic transition of one-dimensional spinor Bose gases with spin-orbit coupling
+  image: ""
+  description: ""
+  authors: Xing Chen, Haiping Hu, Yuzhu Jiang, & Shu Chen
+  link:
+    url: https://doi.org/10.1140/epjd/e2013-40130-6
+    display: Eur. Phys. J. D 67, 166 (2013)
+  highlight: 0
+  news2:  
+  
+  
+- title: Phase diagram and topological superfluid state of spin-orbit coupled Fermi gas with attractive interactions in a one-dimensional optical lattice
+  image: ""
+  description: ""
+  authors: Haiping Hu, Chen Cheng, Yucheng Wang, Honggang Luo, & Shu Chen
+  link:
+    url: https://arxiv.org/abs/1511.01762
+    display: arXiv 1511.01762
+  highlight: 0
+  news2: 
+  
+  
+- title: Mapping trapped atomic gas with spin-orbit coupling to quantum Rabi-like model
+  image: ""
+  description: ""
+  authors: Haiping Hu & Shu Chen
+  link:
+    url: https://arxiv.org/abs/1302.5933
+    display: ArXiv 1302.5933
+  highlight: 0
+  news2: 
