@@ -4,7 +4,7 @@
   authors: Haiping Hu, Erhai Zhao, & W. Vincent Liu
   link:
     url: https://arxiv.org/pdf/2107.02135.pdf
-    display:  ArXiv: 2107. 02135 (2021)
+    display:  ArXiv: 2107.02135 (2021)
   highlight: 1
   news2:
 
@@ -21,13 +21,13 @@
   news2:
 
 
-- title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: T Benschop *, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
+- title: "Topological Invariants for Quantum Quench Dynamics from Unitary Evolution"
+  image: DT.JPG
+  description: Quench dynamics, time evolution after a sudden change in the Hamiltonian, studied under a new framework yields a collection of topological structures. Here we introduce the concept of loop unitary constructed from the unitary time-evolution operator and show its homotopy invariant fully characterizes the dynamical topology.
+  authors: Haiping Hu & Erhai Zhao
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  Phys. Rev. Research 3, 013153
+    url: https://doi.org/10.1103/PhysRevLett.124.160402
+    display:  Phys. Rev. Lett. 124, 160402 – Published 21 April 2020
   highlight: 1
   news2:
 
