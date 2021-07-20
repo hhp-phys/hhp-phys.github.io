@@ -1,6 +1,9 @@
 - title: "Knots and Non-Hermitian Bloch Bands"
   image: knot.JPG
-  description: Knots have a twisted history in quantum physics. We demonstrate that knots tied by the eigenenergy strings provide a complete topological classification of one-dimensional non-Hermitian Hamiltonians with separable bands.
+  description: Knots have a twisted history in quantum physics. We demonstrate that knots tied by the eigenenergy strings provide a 
+  complete topological classification of one-dimensional non-Hermitian Hamiltonians with separable bands. We show the transition between 
+  two phases characterized by distinct knots occur through exceptional points and come in two types. We develop an algorithm to construct the corresponding
+  tight-binding non-Hermitian Hamiltonian for any desired knot, and propose a scheme to probe the knot structure via quantum quench.
   authors: Haiping Hu & Erhai Zhao
   link:
     url: https://doi.org/10.1103/PhysRevLett.126.010401
