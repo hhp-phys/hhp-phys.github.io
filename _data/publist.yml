@@ -8,15 +8,15 @@
   highlight: 1
   news2:
   
-  - title: Tuning the topology of p-wave superconductivity in an analytically solvable two-band model
-  image: dummy.png
+- title: Tuning the topology of p-wave superconductivity in an analytically solvable two-band model
+  image: ""
   description: ""
   authors: Haiping Hu, Erhai Zhao, & Indubala I. Satija
   link:
     url: https://doi.org/10.1103/PhysRevB.102.235156
     display:  Phys. Rev. B 102, 235156 (2020)
   highlight: 0
-  news2:   
+  news2:
   
 - title: "Knots and Non-Hermitian Bloch Bands"
   image: knot.JPG
@@ -80,6 +80,8 @@
   highlight: 1
   news2: See also <a href="https://www.newsweek.com/superfluid-quasicrystal-physicists-propose-entirely-new-form-matter-and-how-878601"> Newsweek </a>, <a href="https://www.sciencedaily.com/releases/2018/04/180409112540."> ScienceDaily </a>, <a href="https://phys.org/news/2018-04-solid-physicists-state.html"> Phys.org </a>.
 
+
+ 
 
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
   image: dummy.png
