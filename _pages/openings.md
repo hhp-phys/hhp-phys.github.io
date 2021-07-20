@@ -3,7 +3,7 @@ title: "Haiping Hu's Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /Openings
+permalink: /openings
 ---
 
 # IOP, CAS Postdoc Fellows
