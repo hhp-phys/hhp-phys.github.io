@@ -1,3 +1,14 @@
+- title: "Knots and Non-Hermitian Bloch Bands"
+  image: knot.JPG
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: Haiping Hu and Erhai Zhao
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.126.010401
+    display:  Phys. Rev. Lett. 126, 010401 (2021)
+  highlight: 1
+  news2:
+
+
 - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
   image: TBG_SL.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
