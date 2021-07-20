@@ -61,15 +61,15 @@
   highlight: 1
   news2:
 
-- title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
-  image: Direct.png
-  authors: I Battisti, WO Tromp, S Riccò, RS Perry, AP Mackenzie, A Tamai, F Baumberger, MP Allan
-  description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
+- title: "Superfluid-Quasicrystal in a Bose-Einstein Condensate"
+  image: SFQC.JPG
+  authors: Junpeng Hou, Haiping Hu, Kuei Sun, & Chuanwei Zhang
+  description: The fundermental task of condensed-matter physics is the search of novel quantum states of matter. Here, we demonstrate the existence of a novel quantum order, dubbed superfluid-quasicrystals. We show the emergent superfluid-quasicrystal stripe state with the minimal fivefold rotational symmetry can be realized as the ground state of a Bose-Einstein condensate within a practical experimental scheme.
   link:
-    url: https://www.nature.com/articles/s41535-020-00292-4
-    display:  npj Quantum Materials 5, 91 (2020)
+    url: https://doi.org/10.1103/PhysRevLett.120.060407
+    display:  Phys. Rev. Lett. 120, 060407 (2018)
   highlight: 1
-  news2:
+  news2: See also <a href="https://www.newsweek.com/superfluid-quasicrystal-physicists-propose-entirely-new-form-matter-and-how-878601"> Newsweek </a>, <a href="https://www.sciencedaily.com/releases/2018/04/180409112540."> ScienceDaily </a>, <a href="https://phys.org/news/2018-04-solid-physicists-state.html"> Phys.org </a>.
 
 - title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
   image: TBG_ARPES.png
