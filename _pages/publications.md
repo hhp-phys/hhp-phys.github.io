@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Haiping Hu - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Haiping Hu -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Research Highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=I7gHECsAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-0136-6763))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
