@@ -18,7 +18,38 @@
     display:  Phys. Rev. Lett. 126, 010401 (2021)
   highlight: 1
   news2:
-
+  
+  
+  - title: Tuning the topology of p-wave superconductivity in an analytically solvable two-band model
+  image: ""
+  description: ""
+  authors: Haiping Hu, Erhai Zhao, & Indubala I. Satija
+  link:
+    url: https://doi.org/10.1103/PhysRevB.102.235156
+    display:  Phys. Rev. B 102, 235156 (2020)
+  highlight: 0
+  news2:
+  
+- title: Topological phases in spin-1 Fermi gases with two-dimensional spin-orbit coupling
+  image: ""
+  description: ""
+  authors: Junpeng Hou, Haiping Hu, & Chuanwei Zhang
+  link:
+    url: https://doi.org/10.1103/PhysRevA.101.053613
+    display:  Phys. Rev. A 101, 053613 (2020)
+  highlight: 0
+  news2:
+  
+- title: Quench dynamics of Hopf insulators
+  image: ""
+  description: ""
+  authors: Haiping Hu, Chao Yang, & Erhai Zhao
+  link:
+    url: https://doi.org/10.1103/PhysRevB.101.155131
+    display: Phys. Rev. B 101, 155131 (2020)
+  highlight: 0
+  news2: 
+  
 
 - title: "Topological Invariants for Quantum Quench Dynamics from Unitary Evolution"
   image: DT.JPG
@@ -40,7 +71,18 @@
   highlight: 1
   news2:
   
-  - title: "Majorana Doublets, Flat Bands, and Dirac Nodes in s-Wave Superfluids"
+  
+- title: Chiral and counter-propagating Majorana fermion in a p-wave superconductor
+  image: ""
+  description: ""
+  authors: Haiping Hu, Indubala Satija, & Erhai Zhao
+  link:
+    url: https://doi.org/10.1088/1367-2630/ab5cad
+    display: New J. Phys. 21, 123014 (2019)
+  highlight: 0
+  news2:  
+  
+- title: "Majorana Doublets, Flat Bands, and Dirac Nodes in s-Wave Superfluids"
   image: HG.JPG
   description: We propose to realize a time-reversal invariant topological superfluid by utilizing s-wave pairing and emergent mirror and time-reversal symmetries in two coupled 1D ultracold atomic Fermi gases with spin-orbit coupling. By stacking such systems into 2D, we discover topological and Dirac-nodal superfluids hosting distinct MKP flat bands, which are stable against pairing fluctuations that otherwise annihilate Majorana pairs.
   authors: Haiping Hu, Fan Zhang, & Chuanwei Zhang
@@ -71,15 +113,7 @@
   highlight: 1
   news2: See also <a href="https://www.newsweek.com/superfluid-quasicrystal-physicists-propose-entirely-new-form-matter-and-how-878601"> Newsweek </a>, <a href="https://www.sciencedaily.com/releases/2018/04/180409112540."> ScienceDaily </a>, <a href="https://phys.org/news/2018-04-solid-physicists-state.html"> Phys.org </a>.
 
-- title: Tuning the topology of p-wave superconductivity in an analytically solvable two-band model
-  image: ""
-  description: ""
-  authors: Haiping Hu, Erhai Zhao, & Indubala I. Satija
-  link:
-    url: https://doi.org/10.1103/PhysRevB.102.235156
-    display:  Phys. Rev. B 102, 235156 (2020)
-  highlight: 0
-  news2:
+
  
 
 - title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
