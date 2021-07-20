@@ -15,9 +15,9 @@ I am a joint Postdoctoral Research Associate at the Department of Physics & Astr
 
 ## Employment ##
 
-2018/09-present: Postdoctoral Research Associate, University of Pittsburgh (Advisor: W. Vincent Liu) & George Mason University (Advisor: Erhai Zhao), USA.
+2018/09-present: Postdoctoral Research Associate, University of Pittsburgh (Advisor: [W. Vincent Liu](http://liu.phyast.pitt.edu/)) & George Mason University (Advisor: [Erhai Zhao](https://ezhao.physics.gmu.edu/)), USA.
 
-2016/09-2018/08: Postdoctoral Research Associate, The University of Texas at Dallas, USA. (Advisor: Chuanwei Zhang)
+2016/09-2018/08: Postdoctoral Research Associate, The University of Texas at Dallas, USA. (Advisor: [Chuanwei Zhang](https://personal.utdallas.edu/~cxz124830/))
 
 ## Education ##
 2011/09-2016-07: Ph.D. in Physics, Institute of Physics, Chinese Academy of Sciences, Beijing, China. Advisor: Shu Chen
