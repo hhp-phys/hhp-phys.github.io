@@ -38,20 +38,18 @@
     url: https://doi.org/10.1103/PhysRevLett.124.057001
     display: Phys. Rev. Lett. 124, 057001 (2020)
   highlight: 1
+  news2:
   
   - title: "Majorana Doublets, Flat Bands, and Dirac Nodes in s-Wave Superfluids"
   image: HG.JPG
-  description: We propose to realize such a time-reversal invariant topological superfluid by utilizing s-wave pairing and emergent mirror and time-reversal symmetries in two coupled 1D ultracold atomic Fermi gases with spin-orbit coupling. By stacking such systems into 2D, we discover topological and Dirac-nodal superfluids hosting distinct MKP flat bands, which are stable against pairing fluctuations that otherwise annihilate Majorana pairs.
+  description: We propose to realize a time-reversal invariant topological superfluid by utilizing s-wave pairing and emergent mirror and time-reversal symmetries in two coupled 1D ultracold atomic Fermi gases with spin-orbit coupling. By stacking such systems into 2D, we discover topological and Dirac-nodal superfluids hosting distinct MKP flat bands, which are stable against pairing fluctuations that otherwise annihilate Majorana pairs.
   authors: Haiping Hu, Fan Zhang, & Chuanwei Zhang
   link:
     url: https://doi.org/10.1103/PhysRevLett.121.185302
     display:  Phys. Rev. Lett. 121, 185302 (2018)
   highlight: 1
+  news2:
 
-
-Topological Triply Degenerate Points Induced by Spin-Tensor-Momentum Couplings
-Haiping Hu, Junpeng Hou, Fan Zhang, and Chuanwei Zhang
-Phys. Rev. Lett. 120, 240401 – Published 12 June 2018
 
 - title: "Topological Triply Degenerate Points Induced by Spin-Tensor-Momentum Couplings"
   image: TDP.JPG
