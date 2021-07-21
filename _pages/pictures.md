@@ -7,7 +7,7 @@ permalink: /pictures/
 
 ## Institute of Physics, Chinese Academy of Sciences
 
-The M-building
+The M-building of IOP, CAS
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/IOP.JPG" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/IOP.JPG" width="40%">
 </figure>
