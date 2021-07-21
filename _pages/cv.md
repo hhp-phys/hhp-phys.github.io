@@ -6,4 +6,4 @@ sitemap: false
 permalink: /cv
 ---
 
-You can find my [CV]({{ site.baseurl }}/downloads/CV.pdf) here.
+**You can find my [CV]({{ site.baseurl }}/downloads/CV.pdf) here**.
