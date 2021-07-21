@@ -8,7 +8,7 @@ permalink: /wunderkammer
 
 # Recorded lectures and talks
 
-1. [Programs](https://www.kitp.ucsb.edu/activities) at the Kavli Institute for Theoretical Physics, University of California, Santa Barbara.
+1. KITP [Programs](https://www.kitp.ucsb.edu/activities) @ University of California, Santa Barbara.
 
 2. [Topological Matter School](https://tms-dipc.org/).
 
@@ -16,7 +16,7 @@ permalink: /wunderkammer
 
 4. [Workshops](https://www.pks.mpg.de/events/workshops-seminars/) at the Max Planck Institute for the Physics of Complex Systems.
 
-5. [Recorded Seminar ArXiv](Recorded talks at the Perimeter Institute for Theoretical Physics) at the Perimeter Institute for Theoretical Physics.
+5. [Recorded Seminar ArXiv](https://pirsa.org/) at the Perimeter Institute for Theoretical Physics.
 
 6. Les Houches [condensed matter summer school](http://topo-houches.pks.mpg.de/).
 
@@ -33,3 +33,5 @@ permalink: /wunderkammer
 4. [Applications of Group Theory to the Physics of Solids](http://web.mit.edu/course/6/6.734j/www/group-full02.pdf) by M. S. Dresselhaus.
 
 5. Gerard 't Hooft, [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/).
+
+6. E. T. Bell, [Men of Mathematics](https://www.e-booksdirectory.com/details.php?ebook=5578).
