@@ -26,7 +26,7 @@
   authors: __HH__, Erhai Zhao, & Indubala I. Satija
   link:
     url: https://doi.org/10.1103/PhysRevB.102.235156
-    display:  Phys. Rev. B 102, 235156 (2020)
+    display:  Phys. Rev. B __102__, 235156 (2020)
   highlight: 0
   news2:
   
@@ -36,7 +36,7 @@
   authors: Junpeng Hou, __HH__, & Chuanwei Zhang
   link:
     url: https://doi.org/10.1103/PhysRevA.101.053613
-    display:  Phys. Rev. A 101, 053613 (2020)
+    display:  Phys. Rev. A __101__, 053613 (2020)
   highlight: 0
   news2:
   
@@ -46,7 +46,7 @@
   authors: __HH__, Chao Yang, & Erhai Zhao
   link:
     url: https://doi.org/10.1103/PhysRevB.101.155131
-    display: Phys. Rev. B 101, 155131 (2020)
+    display: Phys. Rev. B __101__, 155131 (2020)
   highlight: 0
   news2: 
   
@@ -57,7 +57,7 @@
   authors: __HH__ & Erhai Zhao
   link:
     url: https://doi.org/10.1103/PhysRevLett.124.160402
-    display:  Phys. Rev. Lett. 124, 160402 (2020), Editors' Suggestions
+    display:  Phys. Rev. Lett. __124__, 160402 (2020), Editors' Suggestion
   highlight: 1
   news2:
 
@@ -67,7 +67,7 @@
   authors: __HH__, Biao Huang, Erhai Zhao, & W. Vincent Liu
   link:
     url: https://doi.org/10.1103/PhysRevLett.124.057001
-    display: Phys. Rev. Lett. 124, 057001 (2020)
+    display: Phys. Rev. Lett. __124__, 057001 (2020)
   highlight: 1
   news2:  
   
@@ -77,7 +77,7 @@
   authors: __HH__, Indubala Satija, & Erhai Zhao
   link:
     url: https://doi.org/10.1088/1367-2630/ab5cad
-    display: New J. Phys. 21, 123014 (2019)
+    display: New J. Phys. __21__, 123014 (2019)
   highlight: 0
   news2:  
   
@@ -87,7 +87,7 @@
   authors: __HH__, Shu Chen, Tian-Sheng Zeng, & Chuanwei Zhang
   link:
     url: https://doi.org/10.1103/PhysRevA.100.023616
-    display: Phys. Rev. A 100, 023616 (2019)
+    display: Phys. Rev. A __100__, 023616 (2019)
   highlight: 0
   news2:  
   
@@ -97,7 +97,7 @@
   authors: Yucheng Wang, __HH__, & Shu Chen
   link:
     url: https://doi.org/10.1103/PhysRevB.98.205410
-    display: Phys. Rev. B 98, 205410 (2018)
+    display: Phys. Rev. B __98__, 205410 (2018)
   highlight: 0
   news2: 
   
@@ -108,7 +108,7 @@
   authors: __HH__, Fan Zhang, & Chuanwei Zhang
   link:
     url: https://doi.org/10.1103/PhysRevLett.121.185302
-    display:  Phys. Rev. Lett. 121, 185302 (2018)
+    display:  Phys. Rev. Lett. __121__, 185302 (2018)
   highlight: 1
   news2:
 
@@ -118,7 +118,7 @@
   authors: __HH__ & Chuanwei Zhang
   link:
     url: https://doi.org/10.1103/PhysRevA.98.013627
-    display: Phys. Rev. A 98, 013627 (2018)
+    display: Phys. Rev. A __98__, 013627 (2018)
   highlight: 0
   news2: 
 
@@ -129,7 +129,7 @@
   authors: __HH__, Junpeng Hou, Fan Zhang, & Chuanwei Zhang
   link:
     url: https://doi.org/10.1103/PhysRevLett.120.240401
-    display:  Phys. Rev. Lett. 120, 240401 (2018)
+    display:  Phys. Rev. Lett. __120__, 240401 (2018)
   highlight: 1
   news2:
 
@@ -139,7 +139,7 @@
   description: The fundermental task of condensed-matter physics is the search of novel quantum states of matter. Here, we demonstrate the existence of a novel quantum order, dubbed superfluid-quasicrystals. We show the emergent superfluid-quasicrystal stripe state with the minimal fivefold rotational symmetry can be realized as the ground state of a Bose-Einstein condensate within a practical experimental scheme.
   link:
     url: https://doi.org/10.1103/PhysRevLett.120.060407
-    display:  Phys. Rev. Lett. 120, 060407 (2018)
+    display:  Phys. Rev. Lett. __120__, 060407 (2018)
   highlight: 1
   news2: See also <a href="https://www.newsweek.com/superfluid-quasicrystal-physicists-propose-entirely-new-form-matter-and-how-878601"> Newsweek </a>, <a href="https://www.sciencedaily.com/releases/2018/04/180409112540."> ScienceDaily </a>, <a href="https://phys.org/news/2018-04-solid-physicists-state.html"> Phys.org </a>.
 
@@ -150,7 +150,7 @@
   authors: Lei Pan, Yanxia Liu, __HH__, Yunbo Zhang, & Shu Chen
   link:
     url: https://doi.org/10.1103/PhysRevB.96.075149
-    display: Phys. Rev. B 96, 075149 (2017)
+    display: Phys. Rev. B __96__, 075149 (2017)
   highlight: 0
   news2: 
 
@@ -160,7 +160,7 @@
   authors: __HH__, Lei Pan, & Shu Chen
   link:
     url: https://doi.org/10.1103/PhysRevA.93.033636
-    display: Phys. Rev. A 93, 033636 (2016)
+    display: Phys. Rev. A __93__, 033636 (2016)
   highlight: 0
   news2: 
 
@@ -170,7 +170,7 @@
   authors: __HH__, Huaiming Guo, & Shu Chen
   link:
     url: https://doi.org/10.1103/PhysRevB.93.155133
-    display: Phys. Rev. B 93, 155133 (2016)
+    display: Phys. Rev. B __93__, 155133 (2016)
   highlight: 0
   news2: 
   
@@ -180,7 +180,7 @@
   authors: __HH__, Liming Guan, & Shu Chen
   link:
     url: https://doi.org/10.1088/1367-2630/18/2/025009
-    display: New J. Phys. 18, 025009 (2016)
+    display: New J. Phys. __18__, 025009 (2016)
   highlight: 0
   news2: 
 
@@ -190,7 +190,7 @@
   authors: Yucheng Wang, __HH__, & Shu Chen
   link:
     url: https://doi.org/10.1140/epjb/e2016-60873-4
-    display: Eur. Phys. J. B 89, 77 (2016)
+    display: Eur. Phys. J. B __89__, 77 (2016)
   highlight: 0
   news2: 
   
@@ -200,7 +200,7 @@
   authors: Lijun Yang, Lijun Lang, Rong Lv, & __HH__
   link:
     url: https://doi.org/10.1088/0253-6102/63/4/445
-    display: Commun. Theor. Phys. 63, 445(2015)
+    display: Commun. Theor. Phys. __63__, 445(2015)
   highlight: 0
   news2: 
 
@@ -210,7 +210,7 @@
   authors: __HH__, Chen Cheng, Honggang Luo, & Shu Chen
   link:
     url: https://doi.org/10.1038/srep08433
-    display: Scientific Reports 5, 8433 (2015)
+    display: Scientific Reports __5__, 8433 (2015)
   highlight: 0
   news2:   
   
@@ -220,7 +220,7 @@
   authors: __HH__, Chen Cheng, Zhihao Xu, Honggang Luo, & Shu Chen
   link:
     url: https://doi.org/10.1103/PhysRevB.90.035150
-    display: Phys. Rev. B 90, 035150 (2014)
+    display: Phys. Rev. B __90__, 035150 (2014)
   highlight: 0
   news2:  
   
@@ -230,7 +230,7 @@
   authors: Xing Chen, __HH__, Yuzhu Jiang, & Shu Chen
   link:
     url: https://doi.org/10.1140/epjd/e2013-40130-6
-    display: Eur. Phys. J. D 67, 166 (2013)
+    display: Eur. Phys. J. D __7__, 166 (2013)
   highlight: 0
   news2:  
   
