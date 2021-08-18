@@ -19,4 +19,4 @@ I am a joint Postdoctoral Research Associate at the Department of Physics & Astr
 ## Education ##
 **2011/09-2016-07**: Ph.D. in Physics, Institute of Physics, Chinese Academy of Sciences, Beijing, China. Advisor: Shu Chen
 
-**2007/09-2011/07**: B.S. in Physics, The School of the Gifted Young (00鐝?, University of Science and Technology of China
+**2007/09-2011/07**: B.S. in Physics, The School of the Gifted Young (00班), University of Science and Technology of China
