@@ -1,3 +1,13 @@
+- title: Illuminating the bulk-boundary correspondence of a non-Hermitian stub lattice with Majorana stars
+  image: ""
+  description: ""
+  authors: James Bartlett, __HH__, & Erhai Zhao
+  link:
+    url: https://arxiv.org/abs/2108.12372
+    display:  ArXiv:2108.12372 (2021)
+  highlight: 0
+  news2:
+  
 - title: "Point-gap Weyl semimetal: dynamical current and boundary-skin modes"
   image: WP.JPG
   description: Weyl semimetal is an archetypical gapless topological phase of matter. Here, we extend WSM to non-Hermitian regime and introduce the so-called point-gap WSM, where a pair of Weyl points are located on the imaginary axis of the complex energy plane (possessing different lifetimes). The generalization triggers a few fundamental changes to the topological characterization and dynamical response of WSMs. We predict a new effect, time-dependent current induced solely by magnetic field, that saturates at long time.
@@ -182,7 +192,7 @@
     url: https://doi.org/10.1088/1367-2630/18/2/025009
     display: New J. Phys. __18__, 025009 (2016), Invited Focus Issue Article.
   highlight: 0
-  news2: 
+  news2: Invited article <a href="https://iopscience.iop.org/journal/1367-2630/page/Focus%20on%20Strongly%20Interacting%20Quantum%20Gases%20in%20One%20Dimension"> "Focus on Strongly Interacting Quantum Gases in One Dimension" </a> dedicated to Marvin D. Girardeau (1930-2015).
 
 - title: Many-body ground state localization and coexistence of localized and extended states in an interacting quasiperiodic system
   image: ""
