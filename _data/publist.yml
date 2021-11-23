@@ -1,10 +1,20 @@
+- title: "Knot Topology of Exceptional Point and Non-Hermitian No-Go Theorem"
+  image: ""
+  description: ""
+  authors: __HH__, Shikang Sun, & Shu Chen
+  link:
+    url: https://arxiv.org/abs/2111.11346
+    display:  ArXiv: 2111.11346 (2021)
+  highlight: 0
+  news2:  
+
 - title: Illuminating the bulk-boundary correspondence of a non-Hermitian stub lattice with Majorana stars
   image: ""
   description: ""
   authors: James Bartlett, __HH__, & Erhai Zhao
   link:
-    url: https://arxiv.org/abs/2108.12372
-    display:  ArXiv:2108.12372 (2021)
+    url: https://doi.org/10.1103/PhysRevB.104.195131
+    display:  Phys. Rev. B _104_, 195131 (2021)
   highlight: 0
   news2:
   
@@ -14,7 +24,7 @@
   authors: __HH__, Erhai Zhao, & W. Vincent Liu
   link:
     url: https://arxiv.org/pdf/2107.02135.pdf
-    display:  ArXiv 2107.02135 (2021)
+    display:  ArXiv: 2107.02135 (2021)
   highlight: 1
   news2:  
 
