@@ -14,18 +14,18 @@
   authors: Chun-Hui Liu, __HH__, & Shu Chen
   link:
     url: https://doi.org/10.1103/PhysRevB.105.214305
-    display:  Physical Review B 105 (21), 214305 (2022)
+    display:  Physical Review B __105__ (21), 214305 (2022)
   highlight: 0
   news2:  
   
 - title: "Knot topology of exceptional point and non-Hermitian no-go theorem"
-  image: ""
-  description: ""
+  image: Key_image.JPG
+  description: "We formulate a homotopy classification and knot theory of exceptional points and present a non-Hermitian no-go theorem governing the possible configurations of exceptional points and their splitting rules on a two-dimensional lattice."
   authors: __HH__, Shikang Sun, & Shu Chen
   link:
     url: https://doi.org/10.1103/PhysRevResearch.4.L022064
-    display:  Phys. Rev. Research _4_, L022064 (2022)
-  highlight: 0
+    display:  Phys. Rev. Research __4__, L022064 (2022)
+  highlight: 1
   news2:  
 
 - title: "Illuminating the bulk-boundary correspondence of a non-Hermitian stub lattice with Majorana stars"
@@ -34,7 +34,7 @@
   authors: James Bartlett, __HH__, & Erhai Zhao
   link:
     url: https://doi.org/10.1103/PhysRevB.104.195131
-    display:  Phys. Rev. B _104_, 195131 (2021)
+    display:  Phys. Rev. B __104__, 195131 (2021)
   highlight: 0
   news2:
   
