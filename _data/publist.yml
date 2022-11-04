@@ -1,10 +1,30 @@
-- title: "Dynamical localization and many-body localization in periodically kicked quasiperiodic lattices"
+- title: "Exceptional Non-Abelian Topology in Multiband Non-Hermitian Systems"
+  image: ""
+  description: ""
+  authors: Cui-Xian Guo, Shu Chen, Kun Ding, &__HH__
+  link:
+    url: https://arxiv.org/abs/2210.17031
+    display:  arXiv: 2210. 17031 (2022)
+  highlight: 0
+  news2:  
+  
+- title: "Dynamical signatures of point-gap Weyl semimetal"
+  image: WP.JPG
+  description: Weyl semimetal is an archetypical gapless topological phase of matter. Here, we extend WSM to non-Hermitian regime and introduce the so-called point-gap WSM, where a pair of Weyl points are located on the imaginary axis of the complex energy plane (possessing different lifetimes). The generalization triggers a few fundamental changes to the topological characterization and dynamical response of WSMs. We predict a new effect, time-dependent current induced solely by magnetic field, that saturates at long time.
+  authors: __HH__, Erhai Zhao, & W. Vincent Liu
+  link:
+    url: https://doi.org/10.1103/PhysRevB.106.094305
+    display:  Phys. Rev. B __106__ (9), 094305 (2022)
+  highlight: 1
+  news2:  
+
+- title: "Localization, multifractality, and many-body localization in periodically kicked quasiperiodic lattices"
   image: ""
   description: ""
   authors: Yu Zhang, Bozhen Zhou, __HH__, & Shu Chen
   link:
-    url: https://arxiv.org/abs/2203.08004
-    display:  ArXiv 2203.08004 (2022)
+    url: https://doi.org/10.1103/PhysRevB.106.054312
+    display:  Phys. Rev. B __106__ (5), 054312 (2022)
   highlight: 0
   news2:  
 
@@ -37,17 +57,6 @@
     display:  Phys. Rev. B __104__, 195131 (2021)
   highlight: 0
   news2:
-  
-- title: "Point-gap Weyl semimetal: dynamical current and boundary-skin modes"
-  image: WP.JPG
-  description: Weyl semimetal is an archetypical gapless topological phase of matter. Here, we extend WSM to non-Hermitian regime and introduce the so-called point-gap WSM, where a pair of Weyl points are located on the imaginary axis of the complex energy plane (possessing different lifetimes). The generalization triggers a few fundamental changes to the topological characterization and dynamical response of WSMs. We predict a new effect, time-dependent current induced solely by magnetic field, that saturates at long time.
-  authors: __HH__, Erhai Zhao, & W. Vincent Liu
-  link:
-    url: https://arxiv.org/pdf/2107.02135.pdf
-    display:  ArXiv 2107.02135 (2021)
-  highlight: 1
-  news2:  
-
   
 - title: "Knots and Non-Hermitian Bloch Bands"
   image: knot.JPG
