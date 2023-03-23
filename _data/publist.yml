@@ -1,20 +1,30 @@
+- title: "Anomalous second-order skin modes in Floquet non-Hermitian systems"
+  image: ""
+  description: ""
+  authors: Chun-Hui Liu, __HH__, Shu Chen， & Xiongjun Liu
+  link:
+    url: https://arxiv.org/abs/2303.11259
+    display: "ArXiv: 2303.11259 (2023)"
+  highlight: 0
+  news2: 
+
 - title: "Accumulation of scale-free localized states induced by local non-Hermiticity"
   image: ""
   description: ""
   authors: Cui Xian Guo, Xueliang Wang, __HH__, & Shu Chen
   link:
     url: https://arxiv.org/abs/2302.02798
-    display: "ArXiv: 2302. 02798 (2023)"
+    display: "ArXiv: 2302.02798 (2023)"
   highlight: 0
   news2:   
 
 - title: "Exceptional Non-Abelian Topology in Multiband Non-Hermitian Systems"
   image: ""
   description: ""
-  authors: Cui Xian Guo, Shu Chen, Kun Ding, & __HH__
+  authors: Cui Xian Guo, Shu Chen, Kun Ding, & __HH*__
   link:
     url: https://arxiv.org/abs/2210.17031
-    display: "ArXiv: 2210. 17031 (2022)"
+    display: "ArXiv: 2210.17031 (2022), accepted by Phys. Rev. Lett."
   highlight: 0
   news2:  
   
