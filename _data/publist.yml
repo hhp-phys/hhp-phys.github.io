@@ -19,8 +19,9 @@
   news2:   
 
 - title: "Exceptional Non-Abelian Topology in Multiband Non-Hermitian Systems"
-  image: ""
-  description: ""
+  image: "NACR.jpg"
+  description: Exceptional point (EP) lies at the heart of various intriguing phenomena in optics, acoustics, and other nonconservative systems. We put forward a universal non-Abelian conservation rule governing the collective behaviors of multiple exceptional degeneracies in generic multiband non-Hermitian systems. We uncover two counterintuitive phenomena, including the path-dependent annihilation/coalescence of EPs and forbidden exceptional-line configurations. Our formalism assigns braid-valued invariants to the EPs/ELs as well as paths in the parameter space and sheds light on the versatile manipulations and applications based on exceptional degeneracies in nonconservative systems.
+
   authors: Cui-Xian Guo, Shu Chen, Kun Ding, & __HH*__
   link:
     url: https://doi.org/10.1103/PhysRevLett.130.157201
