@@ -13,8 +13,8 @@
   description: ""
   authors: Cui-Xian Guo, Xueliang Wang, __HH*__, & Shu Chen *
   link:
-    url: https://arxiv.org/abs/2302.02798
-    display: "ArXiv: 2302.02798 (2023)"
+    url: https://doi.org/10.1103/PhysRevB.107.134121
+    display: 	Phys. Rev. B __107__, 134121 (2023)
   highlight: 0
   news2:   
 
@@ -25,7 +25,7 @@
   link:
     url: https://doi.org/10.1103/PhysRevLett.130.157201
     display: Phys. Rev. Lett. __130__ (15), 157201 (2023)
-  highlight: 0
+  highlight: 1
   news2:  
   
 - title: "Dynamical signatures of point-gap Weyl semimetal"
