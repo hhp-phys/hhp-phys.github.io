@@ -1,3 +1,33 @@
+- title: "Dissipation-assisted preparation of topological boundary states"
+  image: ""
+  description: ""
+  authors: Yi Peng, Chao Yang, __HH__, and Yucheng Wang*
+  link:
+    url: https://arxiv.org/abs/2412.04152
+    display: "ArXiv: 2412.04152 (2024)"
+  highlight: 0
+  news2: 
+
+- title: "Universal Spreading Dynamics in Quasiperiodic Non-Hermitian Systems"
+  image: ""
+  description: ""
+  authors: Zeyu Xing, Shu Chen, & __HH*__
+  link:
+    url: https://arxiv.org/abs/2412.01301
+    display: "ArXiv: 2412.01301 (2024)"
+  highlight: 0
+  news2: 
+  
+- title: "Scale-tailored localization and its observation in non-Hermitian electrical circuits"
+  image: ""
+  description: ""
+  authors: Cui-Xian Guo, Luhong Su, Yongliang Wang, Li Li, Jinzhe Wang, Xinhui Ruan, Yanjing Du, Dongning Zheng*, Shu Chen*, and __HH*__
+  link:
+    url: https://doi.org/10.1038/s41467-024-53434-8
+    display: "Nature Communications __15__, 9120 (2024)"
+  highlight: 0
+  news2: 
+  
 - title: "Non-Hermitian skin effect in arbitrary dimensions: non-Bloch band theory and classification"
   image: ""
   description: ""
@@ -11,20 +41,20 @@
 - title: "Liouvillian skin effect in a one-dimensional open many-body quantum system with generalized boundary conditions"
   image: ""
   description: ""
-  authors: Liang Mao, Ming-Jie Tao, __HH__, & Lei Pan
+  authors: Liang Mao, Xuanpu Yang, Ming-Jie Tao*, __HH*__, & Lei Pan*
   link:
-    url: https://arxiv.org/abs/2401.15614
-    display: "ArXiv: 2401.15614 (2024)"
+    url: https://doi.org/10.1103/PhysRevB.110.045440
+    display: Phys. Rev. B __110__, 045440 (2024)
   highlight: 0
   news2: 
 
-- title: "Anderson transition and mobility edges on hyperbolic lattices"
+- title: "Anderson transition and mobility edges on hyperbolic lattices with randomly connected boundaries"
   image: ""
   description: ""
   authors: Tianyu Li, Yi Peng, Yucheng Wang*, & __HH*__
   link:
-    url: https://arxiv.org/abs/2312.11857
-    display: "ArXiv: 2312.12857 (2023)"
+    url: https://doi.org/10.1038/s42005-024-01848-7
+    display: "Commun. Phys. __7__, 371 (2024).
   highlight: 0
   news2: 
 
@@ -33,8 +63,8 @@
   description: ""
   authors: Yuncheng Xiong & __HH*__
   link:
-    url: https://arxiv.org/abs/2311.14921
-    display: "ArXiv: 2311.14921 (2023)"
+    url: https://doi.org/10.1103/PhysRevB.109.L100301
+    display: Phys. Rev. B __109__, L100301 (2024)
   highlight: 0
   news2: 
   
@@ -48,13 +78,13 @@
   highlight: 0
   news2: 
 
-- title: "Non-Hermitian band theory in all dimensions: uniform spectra and skin effect"
+- title: "Topological origin of non-Hermitian skin effect in higher dimensions and uniform spectra"
   image: ""
   description: ""
   authors: __HH__
   link:
-    url: https://arxiv.org/abs/2306.12022
-    display: "ArXiv: 2306.12022 (2023)"
+    url: https://doi.org/10.1016/j.scib.2024.07.022
+    display: Sci. Bull. (2024)
   highlight: 0
   news2: 
 
@@ -63,8 +93,8 @@
   description: ""
   authors: Chun-Hui Liu, __HH__, Shu Chen, & Xiongjun Liu*
   link:
-    url: https://arxiv.org/abs/2303.11259
-    display: "ArXiv: 2303.11259 (2023)"
+    url: https://doi.org/10.1103/PhysRevB.108.174307
+    display: Phys. Rev. B __108__, 174307 (2023)
   highlight: 0
   news2: 
 
